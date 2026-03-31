@@ -1,5 +1,7 @@
 # Digital-literacy-project
+
 Name:Abhinav Naresh Naroju
+
 Reg. No.:25BCE11065
 
 This project contains 5 differnet Tasks which are:
